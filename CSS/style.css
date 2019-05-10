@@ -1,5 +1,5 @@
 body{
-    width: 90%;
+    width: 70%;
     background-color:brown;
     margin: 20px auto;
     border: 3px solid #fff;
@@ -26,6 +26,14 @@ ul{
     width: 50%;
 }
 
+.cabecalho img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20%;
+    margin: 25px auto;
+}
+
 .corpo{
     width: 50%;
     display: inline-block;
@@ -35,10 +43,10 @@ ul{
     border-top: 2px solid #fff ; 
 }
 
-.imagem {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 20%;
-    margin: 25px auto;
+.border .social{
+    display: inline;
+}
+
+.border .social img{
+    width: 40px;
 }
