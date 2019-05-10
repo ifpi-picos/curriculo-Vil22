@@ -26,9 +26,13 @@ ul{
     width: 50%;
 }
 
+.corpo{
+    width: 50%;
+    display: inline-block;
+    float: right;
+}
 .border{
     border-top: 2px solid #fff ; 
-    width: 50%;
 }
 
 .imagem {
